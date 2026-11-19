@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover-checklist.jpg","path":"/","view":"Checklist with header progress (10 of 55 earned, per-grade progress, platinum callout), all filters visible, several trophies checked, and the platinum guide panel open","viewport":{"height":800,"width":1280}},{"file":"2-guide-missable.jpg","path":"/","view":"Guide panel for the missable trophy Catch Me If You Can: full guide text, MISSABLE flag with its reasoning, and the cited sources (Exophase, PSNProfiles, PowerPyx) as links","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","path":"/","view":"Roadmap to the Platinum view: stage 1 (Story first) with its summary and trophies with earned checkmarks, stages listed in play order","viewport":{"height":800,"width":1280}},{"file":"4-spoiler-mode.jpg","path":"/","view":"Spoiler mode ON: unearned story trophies masked as Hidden trophy while earned story trophies (Just Like Paradise, Paradise Lost, T**s Ass Drug Money) stay revealed","viewport":{"height":800,"width":1280}}]
